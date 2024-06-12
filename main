@@ -4,4 +4,4 @@ numbers = [1, 2, 3, 4, 5]
 # Умножаем каждое число в списке на 2 и выводим результат.
 result = [num * 2 for num in numbers]
 print(result)
-6969
+
