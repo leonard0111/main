@@ -33,6 +33,3 @@ elif choice == '4':
 else:
     print("Неверный ввод")
 
-
-
-
