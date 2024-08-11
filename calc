@@ -32,3 +32,9 @@ elif choice == '4':
     print("Результат:", divide(num1, num2))
 else:
     print("Неверный ввод")
+
+
+
+
+
+
